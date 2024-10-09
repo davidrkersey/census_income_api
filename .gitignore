@@ -1,0 +1,5 @@
+model/
+mlruns/
+tmp/
+*.pyc
+*.db
