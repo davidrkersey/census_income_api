@@ -1,6 +1,4 @@
-![phData Logo](phData.png "phData Logo")
-
-# Sound Realty Model API
+# Census Income Model API
 
 ## Overview
 
